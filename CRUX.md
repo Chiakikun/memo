@@ -41,4 +41,6 @@ rootのパスワード設定
 ## ports -u  
 
 ## pkgmk -d
+もしFootprintがとかSignetureがどうとかでMakeエラーになったら、ls -a で見えるファイル消してmakeすること。  
+
 
